@@ -1,5 +1,5 @@
 /*
-Copyright (c) 2021 Jakub Mandula
+PZEM-Part Copyright (c) 2021 Jakub Mandula
 
 Example of setting a custom ModBUS address for the PZEM modules.
 ================================================================
